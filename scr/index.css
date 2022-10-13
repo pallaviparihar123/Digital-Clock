@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #817d7d;
+}
+.container{
+  width: 350px;
+  height: 350px;
+  border-radius: 350px;
+  border: 3.5px solid whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(36, 98, 119);
+}
+.container h1{
+  font-size: 2.5rem;
+  color: aliceblue;
+}
+
