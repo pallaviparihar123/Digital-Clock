@@ -7,7 +7,7 @@ I make a Digital Clock with the help of React.js, React hook and CSS.
 I'm a full stack developer...
 
 ## 🛠 Skills
-HTML, CSS, Bootstrap, Vanilla Java Script , Java languge, DSA.
+HTML, CSS, Bootstrap, Vanilla Java Script , Java languge, DSA, MongoDB, React.
 
 
 ## Table of contents
@@ -35,7 +35,7 @@ HTML, CSS, Bootstrap, Vanilla Java Script , Java languge, DSA.
 
 ## Links
 
--Solution URL: @(https://github.com/pallaviparihar123/Tip-Calulator)
+-Solution URL: @(https://github.com/pallaviparihar123/Digital-Clock)
 
 -Live Site URL: @(https://papaya-daifuku-a522a6.netlify.app/)
 ## Author
